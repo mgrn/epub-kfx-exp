@@ -25,7 +25,8 @@
 <dc:publisher id="publisher">台灣數位出版聯盟</dc:publisher>
 
 <!-- 語言 -->
-<dc:language>zh-TW</dc:language>
+<dc:language>zh-hant</dc:language>
+<meta name="primary-writing-mode" content="vertical-rl"/>
 
 <!-- 檔案id -->
 <dc:identifier id="unique-id">urn:uuid:d7a8d311-7cd0-40df-9443-65847561dec2</dc:identifier>

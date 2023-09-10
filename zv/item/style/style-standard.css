@@ -390,7 +390,8 @@ img.gaiji-wide {
 /* 楷體 */
 .hltr .kfont,
 .vrtl .kfont {
-  font-family: cursive-tw, cursive;
+  /*font-family: cursive-tw, cursive;*/
+  font-family: STKaitiTC;
 }
 
 /* 文字尺寸（以％指定） */
